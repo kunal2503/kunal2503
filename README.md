@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://kunalkd.vercel.app" target="_blank"><b>🌐 Portfolio</b></a> •
-  <a href="https://github.com/kunal2503" target="_blank"><b>💻 GitHub</b></a> •
-  <a href="mailto:kunaldeshmukh07d@gmail.com"><b>📧 Email</b></a>
+  <a href="https://kunalkd.vercel.app" target="_blank"><b>Portfolio</b></a> •
+  <a href="https://github.com/kunal2503" target="_blank"><b>GitHub</b></a> •
+  <a href="mailto:kunaldeshmukh07d@gmail.com"><b>Email</b></a>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,sql,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,redis,git,github,docker,aws,vercel,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,sql,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,socket.io,webrtc,redis,git,github,docker,aws,vercel,postman,linux" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ### 🤝 Let's Connect
 <p align="center">
-  <a href="[https://linkedin.com/in/kunal2503](https://www.linkedin.com/in/kunal-deshmukh-382a13265/)">
+  <a href="https://www.linkedin.com/in/kunal-deshmukh-382a13265/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/kunal2503">
