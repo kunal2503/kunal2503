@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Deshmukh</h1>
+<h1 align="center">Hi 👋, I'm Kunal KD</h1>
 <h3 align="center">Full Stack Developer • MERN • Next.js • AI Enthusiast</h3>
 
 <p align="center">
