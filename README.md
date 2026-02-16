@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kunal K Deshmukh
+# Hi 👋, I'm Kunal Deshmukh
 
 ### <h3 align="center">Full Stack Developer</h3>
 
@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://kunalkd.vercel.app" target="_blank"><strong>Portfolio</strong></a> •
   <a href="https://github.com/kunal2503" target="_blank"><strong>GitHub</strong></a> •
+  <a href="https://www.linkedin.com/in/kunal-deshmukh-382a13265/" target="_blank"><strong>LinkedIn</strong></a> •
   <a href="mailto:kunaldeshmukh07d@gmail.com"><strong>Email</strong></a>
 </p>
 
@@ -16,12 +17,11 @@
 
 ### About Me
 
-I'm a Full Stack Developer focused on building scalable, production-ready web applications with clean architecture and robust security.
+Full Stack Developer with a focus on building scalable, production-ready web applications using modern technologies.
 
-- Hands-on experience in end-to-end development of real-world systems
-- Expertise in backend design, RESTful APIs, and real-time features
-- Passionate about solving complex problems through code
-- Currently deepening knowledge in Data Structures, Algorithms, and System Design
+I specialize in end-to-end development — from robust backend systems with real-time features to intuitive, performant frontends. Experienced in clean architecture, secure authentication, cloud deployments, and solving complex problems through efficient code.
+
+Currently strengthening expertise in Data Structures, Algorithms, and System Design.
 
 ---
 
@@ -29,46 +29,52 @@ I'm a Full Stack Developer focused on building scalable, production-ready web ap
 
 <p align="center">
   <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,sql" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,sql&perline=6" />
 </p>
 
 <p align="center">
   <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,framer&perline=6" />
 </p>
 
 <p align="center">
   <strong>Backend & Real-time</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio,webrtc" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio,jwt&perline=6" />
 </p>
 
 <p align="center">
-  <strong>Databases & Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,docker,aws,vercel,postman,linux" alt="Databases & Tools" />
+  <strong>Databases & DevOps</strong><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,docker,aws,vercel,postman,linux&perline=6" />
 </p>
 
 ---
 
 ### Featured Projects
 
-- **Smart Shop** – Full-stack e-commerce platform with user authentication, payment integration, and admin dashboard
-- **Real-Time Chat Application** – Secure one-to-one chat system built with Socket.IO, MongoDB, and JWT
-- **Social Scheduler** – Automation tool using OAuth and third-party APIs for social media management
-- **JavaScript Lab** – Collection of performance-optimized logic games and interactive applications
+| Project          | Description                                                                 | Tech Stack                          | Link                                      |
+|------------------|-----------------------------------------------------------------------------|-------------------------------------|-------------------------------------------|
+| Betnow           | Real-time sports betting platform optimized for high concurrency           | React, Node.js, Socket.IO, MongoDB  | [GitHub](https://github.com/kunal2503/Betnow) |
+| Smart Shop       | Full-stack MERN e-commerce with payments, admin dashboard, and authentication | React, Node.js, Express, MongoDB    | [GitHub](https://github.com/kunal2503/Smart-Shop) |
+| Movie Booking    | Ticket booking system with seat selection and live availability            | React, Node.js, MongoDB             | [GitHub](https://github.com/kunal2503/Movies-ticket-booking) |
+| Real-Time Chat   | Secure one-to-one chat application with JWT authentication                 | React, Node.js, Socket.IO, MongoDB  | [GitHub](https://github.com/kunal2503) <!-- Update if separate repo --> |
 
-> *Focused on production-quality systems with real-world functionality*
+> Focused on production-quality, scalable systems with real-world impact.
 
 ---
 
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal2503&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal2503&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kunal2503&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal2503&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal2503&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal2503&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal2503&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff80b3&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 ---
@@ -77,10 +83,10 @@ I'm a Full Stack Developer focused on building scalable, production-ready web ap
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-deshmukh-382a13265/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/kunal2503">
-    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:kunaldeshmukh07d@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -88,5 +94,5 @@ I'm a Full Stack Developer focused on building scalable, production-ready web ap
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <em>Open to opportunities • Pune, India</em>
 </p>
