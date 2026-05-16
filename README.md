@@ -49,16 +49,6 @@ Currently strengthening expertise in Data Structures, Algorithms, and System Des
 
 ---
 
-### Featured Projects
-
-| Project          | Description                                                                 | Tech Stack                          | Link                                      |
-|------------------|-----------------------------------------------------------------------------|-------------------------------------|-------------------------------------------|
-| Betnow           | Real-time sports betting platform optimized for high concurrency           | React, Node.js, Socket.IO, MongoDB  | [GitHub](https://github.com/kunal2503/Betnow) |
-| Smart Shop       | Full-stack MERN e-commerce with payments, admin dashboard, and authentication | React, Node.js, Express, MongoDB    | [GitHub](https://github.com/kunal2503/Smart-Shop) |
-| Movie Booking    | Ticket booking system with seat selection and live availability            | React, Node.js, MongoDB             | [GitHub](https://github.com/kunal2503/Movies-ticket-booking) |
-| Real-Time Chat   | Secure one-to-one chat application with JWT authentication                 | React, Node.js, Socket.IO, MongoDB  | [GitHub](https://github.com/kunal2503) <!-- Update if separate repo --> |
-
-> Focused on production-quality, scalable systems with real-world impact.
 
 ---
 
