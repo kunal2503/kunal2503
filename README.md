@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kunal Deshmukh
+# Hi, I'm Kunal K D
 
 ### <h3 align="center">Full Stack Developer</h3>
 
@@ -19,38 +19,8 @@
 
 Full Stack Developer with a focus on building scalable, production-ready web applications using modern technologies.
 
-I specialize in end-to-end development — from robust backend systems with real-time features to intuitive, performant frontends. Experienced in clean architecture, secure authentication, cloud deployments, and solving complex problems through efficient code.
-
-Currently strengthening expertise in Data Structures, Algorithms, and System Design.
-
 ---
 
-### Technical Skills
-
-<p align="center">
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,sql&perline=6" />
-</p>
-
-<p align="center">
-  <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,framer&perline=6" />
-</p>
-
-<p align="center">
-  <strong>Backend & Real-time</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio,jwt&perline=6" />
-</p>
-
-<p align="center">
-  <strong>Databases & DevOps</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,docker,aws,vercel,postman,linux&perline=6" />
-</p>
-
----
-
-
----
 
 ### GitHub Statistics
 
@@ -68,21 +38,3 @@ Currently strengthening expertise in Data Structures, Algorithms, and System Des
 </p>
 
 ---
-
-### Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kunal-deshmukh-382a13265/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kunal2503">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:kunaldeshmukh07d@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Open to opportunities • Pune, India</em>
-</p>
